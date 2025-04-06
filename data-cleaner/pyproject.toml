@@ -1,0 +1,7 @@
+[project]
+name = "data-cleaner"
+version = "0.1.0"
+description = "A simple and intuitive web app built with Streamlit that allows users to upload, clean, and convert their CSV and Excel files effortlessly."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies =  ["pandas", "streamlit", "openpyxl"]
